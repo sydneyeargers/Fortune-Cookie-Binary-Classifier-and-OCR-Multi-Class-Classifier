@@ -1,0 +1,82 @@
+iteration-1 83
+iteration-2 69
+iteration-3 20
+iteration-4 5
+iteration-5 0
+iteration-6 0
+iteration-7 0
+iteration-8 0
+iteration-9 0
+iteration-10 0
+iteration-11 0
+iteration-12 0
+iteration-13 0
+iteration-14 0
+iteration-15 0
+iteration-16 0
+iteration-17 0
+iteration-18 0
+iteration-19 0
+iteration-20 0
+iteration-1 0.472 0.634
+iteration-2 0.612 0.366
+iteration-3 0.947 0.683
+iteration-4 0.988 0.723
+iteration-5 1.000 0.743
+iteration-6 1.000 0.743
+iteration-7 1.000 0.743
+iteration-8 1.000 0.743
+iteration-9 1.000 0.743
+iteration-10 1.000 0.743
+iteration-11 1.000 0.743
+iteration-12 1.000 0.743
+iteration-13 1.000 0.743
+iteration-14 1.000 0.743
+iteration-15 1.000 0.743
+iteration-16 1.000 0.743
+iteration-17 1.000 0.743
+iteration-18 1.000 0.743
+iteration-19 1.000 0.743
+iteration-20 1.000 0.743
+1.000 0.743
+iteration-1 1922
+iteration-2 1494
+iteration-3 1459
+iteration-4 1452
+iteration-5 1391
+iteration-6 1374
+iteration-7 1388
+iteration-8 1364
+iteration-9 1324
+iteration-10 1322
+iteration-11 1282
+iteration-12 1291
+iteration-13 1290
+iteration-14 1268
+iteration-15 1279
+iteration-16 1282
+iteration-17 1237
+iteration-18 1264
+iteration-19 1224
+iteration-20 1243
+iteration-1 0.508 0.455
+iteration-2 0.571 0.506
+iteration-3 0.531 0.479
+iteration-4 0.486 0.429
+iteration-5 0.544 0.489
+iteration-6 0.575 0.497
+iteration-7 0.533 0.469
+iteration-8 0.579 0.505
+iteration-9 0.603 0.523
+iteration-10 0.615 0.528
+iteration-11 0.591 0.511
+iteration-12 0.621 0.537
+iteration-13 0.571 0.494
+iteration-14 0.583 0.506
+iteration-15 0.598 0.512
+iteration-16 0.569 0.488
+iteration-17 0.578 0.502
+iteration-18 0.634 0.550
+iteration-19 0.587 0.502
+iteration-20 0.624 0.540
+0.624 0.542
